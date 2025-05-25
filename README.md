@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihai.</h1>
-<h3 align="center">As a passionate advocate for new technologies, I thrive on discovering innovative ways to transform business requirements into working applications.A passionate frontend developer from India</h3>
+<h3 align="center">As a passionate advocate for new technologies, I thrive on discovering innovative ways to transform business requirements into working applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visanmihai1&label=Profile%20views&color=0e75b6&style=flat" alt="visanmihai1" /> </p>
 
